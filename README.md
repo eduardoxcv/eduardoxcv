@@ -1,4 +1,4 @@
-## Olá Mundo!!!! eu sou o Eduardo Henrique
+## Olá Mundo!!!! eu sou o Eduardo Henrique 🚀
 
  - 🌱 Bootcamp Genration BR - Dev full stack | Java | Júnior
 - 📫 E-mail:eduardo.cvhenrique@gmail.com
@@ -14,16 +14,9 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: eduardo.cvhenrique@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/eduhmoura/">
-      <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "https://https://twitter.com/H_Eduu/">
-      <img width="25" src="twitter.png">
-    </a>
-   </div>
-
-
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-EduardoHenrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduhmoura/)](https://www.linkedin.com/in/eduhmoura/)
+[![Gmail Badge](https://img.shields.io/badge/-edaurdo.cvhenrique-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardo.cvhenrique@gmail.com)](mailto:lari.santosazevedo@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Duardo🚀-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/H_Eduu)](https://twitter.com/H_Eduu)
+   
 
