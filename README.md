@@ -14,7 +14,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
- <h1 align="center">Redes Sociais</h1>
+ <h1 align="center">Conecte-se comigo</h1>
  
 [![Linkedin Badge](https://img.shields.io/badge/-EduardoHenrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduhmoura/)](https://www.linkedin.com/in/eduhmoura/)
 [![Gmail Badge](https://img.shields.io/badge/-edaurdo.cvhenrique-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardo.cvhenrique@gmail.com)](mailto:lari.santosazevedo@gmail.com)
